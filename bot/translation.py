@@ -9,8 +9,7 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-🎬JOIN OUR MOVIES CHANNEL🎬- @MDMOVISES
-🎬JOIN OUR MOVIES GROUP🎬- @malayalamdubbedmoviegroup
+🎬JOIN OUR MOVIES CHANNEl📺- @MDMOVISES
 
 For More Details Click Help Button Below..
 @mdadmin2
