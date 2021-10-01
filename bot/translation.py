@@ -9,6 +9,9 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
+  🎬JOIN OUR MOVIES CHANNEL🎬- @MDMOVISES
+   🎬JOIN OUR MOVIES GROUP🎬 - @MALAYALAMDUBBEDMOVIESES
+
 For More Details Click Help Button Below..
 @mdadmin2
 </i>"""    
@@ -56,13 +59,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 
-<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES.com">click me </a></i>
-"""
+<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES">click me </a></i>"""
 
-
-    mdmovies_channel = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-   
-<b>➥ m.d_movieses</b> : <b><i><a href="https://t.me/mdmovises">mdmovises</a></i></b>
-
-<b>➥ o.m.d_movises</b> : <b><i><a href="https://t.me/omdmovieses">omdmovieses</a></i></b>
-"""
