@@ -59,5 +59,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 
-<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES">click me </a></i>"""
+<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES">click me</a></i>"""
 
