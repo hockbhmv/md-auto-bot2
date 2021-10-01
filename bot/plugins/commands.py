@@ -51,7 +51,8 @@ async def start(bot, update):
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/hockbhmv/md-auto-bot2/')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-        InlineKeyboardButton('🔰our movies channnel 🔰', url='https://t.me/MDMOVISES')
+    ],[
+        InlineKeyboardButton('our movies channnel ', url='https://t.me/MDMOVISES')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
 
