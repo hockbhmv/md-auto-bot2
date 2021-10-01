@@ -17,8 +17,8 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Add Me To m.d movies Group And Make Me Admin
+-> Add Me To m.d_movies Desired Channel
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -56,7 +56,12 @@ For More Details Click Help Button Below..
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 
-<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES.com <b>
+<b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES.com">click me </a></i>
 """
 
 
+    mdmovies_channel = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+   
+<b>➥ m.d_movieses</b> : <b><i><a href="https://t.me/mdmovises">mdmovises</a></i></b>
+
+<b>➥ o.m.d_movises</b> : <b><i><a href="https://t.me/omdmovieses">omdmovieses</a></i></b>
