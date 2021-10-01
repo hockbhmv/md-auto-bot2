@@ -52,7 +52,8 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
     ],[
-        InlineKeyboardButton('our movies channnel ', url='https://t.me/MDMOVISES')
+        InlineKeyboardButton('join our movies channnel ', url='https://t.me/MDMOVISES')
+        InlineKeyboardButton('join our movies group ', url='https://t.me/MDMOVISES')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
 
