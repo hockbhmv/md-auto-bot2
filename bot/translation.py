@@ -57,7 +57,7 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/hockbhmv/md-auto-bot2.git">Click Me</a></i>
 
 <b>➥ join our movie channel</b> : <i><a href="https://t.me/MDMOVISES">click me</a></i>"""
 
