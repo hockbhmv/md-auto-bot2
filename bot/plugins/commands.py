@@ -47,15 +47,15 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/mdadmin2'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/hockbhmv/md-auto-bot2/')
+        InlineKeyboardButton('👤 Developers 👤', url='https://t.me/mdadmin2'),
+        InlineKeyboardButton('🧾 Source Code 🧾', url ='https://github.com/hockbhmv/md-auto-bot2/')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🛠️ Support 🛠', url='https://t.me/CrazyBotszGrp')
     ],[
-        InlineKeyboardButton('join our movies channnel🎬 ', url='https://t.me/MDMOVISES'),
-        InlineKeyboardButton('join our movies group 🎬', url='https://t.me/malayalamdubbedmoviegroup')
+        InlineKeyboardButton('🔰join our movies channnel🔰 ', url='https://t.me/MDMOVISES'),
+        InlineKeyboardButton('🔰join our movies group🔰', url='https://t.me/malayalamdubbedmoviegroup')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('⚙Help⚙', callback_data="help")
 
     ]]
     
