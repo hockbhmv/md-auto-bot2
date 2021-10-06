@@ -35,9 +35,9 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN OUR CHANNEL', url="https://t.me/mdmovises"
+                                    '❣️JOIN OUR CHANNEL❣️', url="https://t.me/mdmovises"
                                 )
-                                ],[  InlineKeyboardButton('share our group',url="https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup&text=ALL-MALAYALAM-MOVIES-GROUP")
+                                ],[  InlineKeyboardButton('🔰SHARE OUR GROUP🔰',url="https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup&text=ALL-MALAYALAM-MOVIES-GROUP")
                         ]
                     ]
                 )
